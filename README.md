@@ -27,4 +27,4 @@ A simple Python program that counts the number of words in a given text. This pr
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/word-counter.git
+   git clone https://github.com/Siva0015/project_2.git
